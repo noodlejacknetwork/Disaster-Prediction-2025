@@ -8,5 +8,5 @@ This repository contains a machine learning pipeline to predict major disaster e
 
 ## How to Run code:
 - click the "disaster_events_model.ipynb" file
-- then click the "Open in Colab" button on the top right of the preview page
+- then click the "Open in Colab" button on the top left of the preview page
 - you are redirected to google colab, and simply click run all
