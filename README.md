@@ -1,4 +1,4 @@
-#Disaster Prediction Model 2025
+# Disaster Prediction Model 2025
 This repository contains a machine learning pipeline to predict major disaster events.
 
 Contents:
